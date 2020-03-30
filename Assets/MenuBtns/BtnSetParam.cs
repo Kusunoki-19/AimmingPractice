@@ -27,7 +27,8 @@ public class BtnSetParam : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		this.valDispObj.GetComponent<Text>().text = PadControl.P_PARAM[this.pParamName].ToString();
+        //display parameter value
+		this.valDispObj.GetComponent<Text>().text = AimControl.AIM_PARAM[this.pParamName].ToString();
     }
 	void increaseVal(){
 		UIControl.ADD_P_PARAM_VAL(this.pParamName, this.addUpVal);
