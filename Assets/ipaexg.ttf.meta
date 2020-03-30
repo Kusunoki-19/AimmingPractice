@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d977151e525836f41814e13d92d228b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IPAexGothic
+  fontNames:
+  - IPAexGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e303ed6f49b7ef47a3a7180df31193e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
